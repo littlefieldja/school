@@ -44,14 +44,12 @@
 	std::cin >> int2;
 	
 	std::cout >> "You entered " + int1 + " as the first number and " + int2 + " has the second number";
-	}```
+```
 	
-this is some rubby
-
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+	require 'redcarpet'
+	markdown = Redcarpet.new("Hello World!")
+	puts markdown.to_html
 ```
  
  
