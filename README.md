@@ -44,8 +44,8 @@
 	std::cin >> int2;
 	
 	std::cout >> "You entered " + int1 + " as the first number and " + int2 + " has the second number";
-	}
-	```
+	}```
+	
 this is some rubby
 
 ```ruby
