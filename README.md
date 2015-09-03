@@ -1,6 +1,4 @@
-# school
-
-##Simple Markdown and other notes
+#Simple Markdown and other notes
 
 ####how to add files to github from ATK 
  - git add .
