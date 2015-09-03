@@ -34,6 +34,18 @@
    1. nested item 2a
    2. nested item 2b
    
+   
+- this is a task list 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+:sob
+
+
+
+####This is some code
 ```c++	
 	int main (){
 	double int1; 
