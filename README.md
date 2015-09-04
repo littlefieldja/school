@@ -6,6 +6,7 @@
 	-	ex: git clone http://github.com/littlefieldja/school
 	
 ####how to add files to github from ATK 
+ - must be in path user/e60891/git/school
  - git add .
  - git commit -m "message here"
  - git push
